@@ -43,16 +43,3 @@
 [7.精进Quartz源码——QuartzSchedulerThread.run() 源码分析（三）](http://blog.csdn.net/u010648555/article/details/53525041)  
 
 [8.精进Quartz源码——Quartz调度器的Misfire处理规则（四）](http://blog.csdn.net/u010648555/article/details/53672738)  
-
-
-
-----------
-
-
-
-<font color='blue'>欢迎关注我的公众号： Java编程技术乐园。分享技术，一起精进Quartz! </font>
-
-**愿你我在人生的路上能都变成最好的自己，能够成为一个独挡一面的人**
-![](http://dufyun.gitee.io/images_bed/images/life/qrcode_javaCoder.png)
-
-&copy; 每天都在变得更好的阿飞云
